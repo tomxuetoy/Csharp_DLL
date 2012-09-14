@@ -1,0 +1,5 @@
+A good note is here:
+    http://msdn.microsoft.com/zh-cn/library/3707x96z%28v=vs.80%29.aspx
+
+csc command is available in my C:
+So copy the 3 .cs files to C:\test, and then follow the instruction from above link .
